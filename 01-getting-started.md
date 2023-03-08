@@ -5,6 +5,7 @@
 - To get started, create a new Slack App on [api.slack.com](https://api.slack.com/apps?new_granular_bot_app=1).
   1. Type in your app name.
   2. Select the workspace you'd like to build your app on - the NewsApps slack!
+  3. Post in the NewsApps #slack-bots channel the name of your app - I'll need to add it.
 
 ### Give your app permissions
 
